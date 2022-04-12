@@ -15,3 +15,5 @@ BCC2B9
 94B3B9
 
 Changes to styling can be found in the assets/css/Holl's-spot-style.css
+
+website name: https://hollisjohnson.github.io/Holl-s-Spot/index.html
